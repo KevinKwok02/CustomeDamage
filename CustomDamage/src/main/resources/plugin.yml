@@ -1,0 +1,8 @@
+name: CustomDamage
+version: '${project.version}'
+main: com.kevinkwok.customdamage.CustomDamage
+commands:
+  customdamage:
+    description: "Hello World"
+    permission: CustomDamage.admin
+    aliases: cdmg

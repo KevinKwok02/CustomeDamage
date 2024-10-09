@@ -1,0 +1,12 @@
+
+DamageEvent:
+  poison:
+    percentage: true
+    damage: 1.00
+  fire:
+    percentage: true
+    damage: 1.00
+  wither:
+    percentage: true
+    damage: 1.00
+
